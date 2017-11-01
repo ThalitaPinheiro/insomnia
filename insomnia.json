@@ -1,0 +1,42 @@
+{
+	"_type": "export",
+	"__export_format": 3,
+	"__export_date": "2017-11-01T16:42:25.957Z",
+	"__export_source": "insomnia.desktop.app:v5.9.6",
+	"resources": [
+		{
+			"_id": "req_eb757395af6542c2b7f655c2cbfcab3f",
+			"parentId": "wrk_61db0ce9503c49268b5d5f93c54b2808",
+			"modified": 1509554513613,
+			"created": 1509553986264,
+			"url": "http://mockbin.org/bin/ea5e756a-0452-4626-9f7d-ad09d3fc8c61",
+			"name": "teste",
+			"description": "",
+			"method": "GET",
+			"body": {
+				"mimeType": "application/json",
+				"text": ""
+			},
+			"parameters": [],
+			"headers": [
+				{
+					"name": "Content-Type",
+					"value": "application/json",
+					"id": "pair_3b1783d915494cda97ee7c4e2dd514fb"
+				},
+				{
+					"name": "Accept",
+					"value": "application/x-yaml, application/json, application/xml",
+					"id": "pair_2c065993a80249959d17b335ea5d2b21"
+				}
+			],
+			"authentication": {},
+			"metaSortKey": -1509553986264,
+			"settingStoreCookies": true,
+			"settingSendCookies": true,
+			"settingDisableRenderRequestBody": false,
+			"settingEncodeUrl": true,
+			"_type": "request"
+		}
+	]
+}
